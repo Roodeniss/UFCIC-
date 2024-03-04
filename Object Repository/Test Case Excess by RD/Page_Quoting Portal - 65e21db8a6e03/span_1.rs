@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>9ca64bb8-cb9d-4506-a002-41b339fe895b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.datepicker-cell.is-today.is-selectable > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='schema-form']/form/div[3]/div/div/div/div/div[3]/div/div[2]/div[4]/div/div/div/div[2]/div/div[4]/div/div/div[2]/div/div/div[3]/div/div/div/div/section/div/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8c23e6e2-2ff1-4fb4-ad9f-26dcb787e37c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>c6d8d967-61b2-468a-b49c-87da58d052d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;schema-form&quot;)/form[1]/div[@class=&quot;card is-paddingless group exULGLPane vertical&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;not-columns&quot;]/div[@class=&quot;array box exULGLArray not-column&quot;]/div[@class=&quot;scrollable pl-3 pb-4&quot;]/div[@class=&quot;card item item-1&quot;]/div[@class=&quot;card-content not-columns&quot;]/div[@class=&quot;card is-paddingless group exCarrierInfoCard vertical&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;not-columns&quot;]/div[@class=&quot;group exCarrierInfoLine horizontal&quot;]/div[@class=&quot;columns&quot;]/div[@class=&quot;field-container exULEffDate column&quot;]/div[@class=&quot;field schema-field&quot;]/div[@class=&quot;b-tooltip is-primary is-bottom is-medium is-multiline maybe-tooltip&quot;]/div[@class=&quot;tooltip-trigger&quot;]/div[@class=&quot;datepicker control is-small&quot;]/div[@class=&quot;dropdown dropdown-menu-animation is-bottom-right is-active is-mobile-modal&quot;]/div[@class=&quot;dropdown-menu&quot;]/div[@class=&quot;dropdown-content&quot;]/div[@class=&quot;dropdown-item&quot;]/div[1]/div[@class=&quot;datepicker-content&quot;]/section[@class=&quot;datepicker-table&quot;]/div[@class=&quot;datepicker-body&quot;]/div[@class=&quot;datepicker-row&quot;]/a[@class=&quot;datepicker-cell is-today is-selectable&quot;]/span[1]</value>
+      <webElementGuid>8d925829-8e23-4e48-a2d1-8ac0e877d420</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='schema-form']/form/div[3]/div/div/div/div/div[3]/div/div[2]/div[4]/div/div/div/div[2]/div/div[4]/div/div/div[2]/div/div/div[3]/div/div/div/div/section/div/div/a/span</value>
+      <webElementGuid>2765db3c-5951-4b99-883e-b522d1e7ecde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[2]/following::span[6]</value>
+      <webElementGuid>0f602579-0aa7-46b2-b911-804c408fe6b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[1]/following::span[7]</value>
+      <webElementGuid>35bccc4a-22d8-4f3e-bb2b-721520d1f243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expiration Date'])[1]/preceding::span[37]</value>
+      <webElementGuid>86b3b11b-7d94-410e-a743-ebeda5e9717f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a/span</value>
+      <webElementGuid>2f847cc1-5349-49c1-9a25-8df9b72e62fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>6b178be4-4503-4bb5-a0f7-bc351c448cec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

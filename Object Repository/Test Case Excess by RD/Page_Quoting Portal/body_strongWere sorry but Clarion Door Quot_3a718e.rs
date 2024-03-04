@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_strongWere sorry but Clarion Door Quot_3a718e</name>
+   <tag></tag>
+   <elementGuidId>fd3d7ee9-6ec4-4042-a230-c8eba4ed0f7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>0553a240-ba9e-4fd1-8f97-b9b3f078cfa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;strong>We're sorry but Clarion Door Quoting Portal doesn't work properly without JavaScript enabled. Please enable it to continue.&lt;/strong>window.NREUM||(NREUM={});NREUM.info={&quot;beacon&quot;:&quot;bam.nr-data.net&quot;,&quot;licenseKey&quot;:&quot;3a253fe8f7&quot;,&quot;applicationID&quot;:&quot;730472649&quot;,&quot;transactionName&quot;:&quot;Y11XZ0tYWEBWV0RQCVoXdFBNUFldGHVASTp8TEFDZXpZXUNGX1UKUUpGb3hKRVZDd19XEkZXWV9cS3ZSR0Q=&quot;,&quot;queueTime&quot;:0,&quot;applicationTime&quot;:148,&quot;atts&quot;:&quot;TxpUEQNCS04=&quot;,&quot;errorBeacon&quot;:&quot;bam.nr-data.net&quot;,&quot;agent&quot;:&quot;&quot;}</value>
+      <webElementGuid>41e4836f-3482-43be-b02c-07dd151390c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>6e75f2c5-acc9-47a6-8bbe-632fa4488633</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>ec527998-0bdc-4993-8b68-15ca6cde0fb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = concat(&quot;&lt;strong>We&quot; , &quot;'&quot; , &quot;re sorry but Clarion Door Quoting Portal doesn&quot; , &quot;'&quot; , &quot;t work properly without JavaScript enabled. Please enable it to continue.&lt;/strong>window.NREUM||(NREUM={});NREUM.info={&quot;beacon&quot;:&quot;bam.nr-data.net&quot;,&quot;licenseKey&quot;:&quot;3a253fe8f7&quot;,&quot;applicationID&quot;:&quot;730472649&quot;,&quot;transactionName&quot;:&quot;Y11XZ0tYWEBWV0RQCVoXdFBNUFldGHVASTp8TEFDZXpZXUNGX1UKUUpGb3hKRVZDd19XEkZXWV9cS3ZSR0Q=&quot;,&quot;queueTime&quot;:0,&quot;applicationTime&quot;:148,&quot;atts&quot;:&quot;TxpUEQNCS04=&quot;,&quot;errorBeacon&quot;:&quot;bam.nr-data.net&quot;,&quot;agent&quot;:&quot;&quot;}&quot;) or . = concat(&quot;&lt;strong>We&quot; , &quot;'&quot; , &quot;re sorry but Clarion Door Quoting Portal doesn&quot; , &quot;'&quot; , &quot;t work properly without JavaScript enabled. Please enable it to continue.&lt;/strong>window.NREUM||(NREUM={});NREUM.info={&quot;beacon&quot;:&quot;bam.nr-data.net&quot;,&quot;licenseKey&quot;:&quot;3a253fe8f7&quot;,&quot;applicationID&quot;:&quot;730472649&quot;,&quot;transactionName&quot;:&quot;Y11XZ0tYWEBWV0RQCVoXdFBNUFldGHVASTp8TEFDZXpZXUNGX1UKUUpGb3hKRVZDd19XEkZXWV9cS3ZSR0Q=&quot;,&quot;queueTime&quot;:0,&quot;applicationTime&quot;:148,&quot;atts&quot;:&quot;TxpUEQNCS04=&quot;,&quot;errorBeacon&quot;:&quot;bam.nr-data.net&quot;,&quot;agent&quot;:&quot;&quot;}&quot;))]</value>
+      <webElementGuid>ddcd892a-ce0b-4c41-8183-6a58fa414375</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

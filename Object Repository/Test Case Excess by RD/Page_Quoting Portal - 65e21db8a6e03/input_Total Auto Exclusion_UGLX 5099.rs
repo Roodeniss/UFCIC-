@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Total Auto Exclusion_UGLX 5099</name>
+   <tag></tag>
+   <elementGuidId>378cdc93-9624-4d92-bc6e-ca1685f34892</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;UGLX 5099&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='UGLX 5099']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f279a033-e103-4052-a4e7-29f054185327</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>646d9875-3781-4a32-b7a2-15eb65ca0bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>f8f6b8b7-8739-4a15-a44e-487768b60b22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>UGLX 5099</value>
+      <webElementGuid>c8a96b2a-ddcc-43c1-8443-c1db0fa8ebb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>true-value</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a7eff75e-c2bc-46b0-b332-12b9c6349ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>UGLX 5099</value>
+      <webElementGuid>63a79381-9bc0-4dd8-b4e6-8400fdb51322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;forms-table&quot;)/tbody[2]/tr[10]/td[1]/label[@class=&quot;checkbox small&quot;]/input[1]</value>
+      <webElementGuid>b37c0b7b-6f43-463b-a4e5-a56bf53307e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='UGLX 5099']</value>
+      <webElementGuid>989db0eb-8779-4bab-becf-df840d52b31c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='forms-table']/tbody[2]/tr[10]/td/label/input</value>
+      <webElementGuid>7970c87e-8a33-4e81-89f6-3ef09ad33e9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td/label/input</value>
+      <webElementGuid>dce572bf-79f1-4cad-9920-6fc017cb49cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @name = 'UGLX 5099']</value>
+      <webElementGuid>3b5cede3-caa0-4585-8d9a-9d79b5d44dd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

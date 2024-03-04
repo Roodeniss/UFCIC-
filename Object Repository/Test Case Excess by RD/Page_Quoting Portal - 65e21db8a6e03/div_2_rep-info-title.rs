@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_2_rep-info-title</name>
+   <tag></tag>
+   <elementGuidId>35d813f7-19d0-4e7a-b55f-151f3d3bd0d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='schema-form']/form/div[4]/div/div/div/div/div[3]/div/div[2]/div[6]/div[3]/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a7f52285-80dc-4665-b8e5-c64dda2a87c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rep-info-title </value>
+      <webElementGuid>b4d91a73-cfcc-4ea4-b59a-7e61339c0897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;schema-form&quot;)/form[1]/div[@class=&quot;card is-paddingless group exULALPane horizontal&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/div[@class=&quot;array box exULALArray column&quot;]/div[@class=&quot;scrollable pl-3 pb-4&quot;]/div[@class=&quot;card item item-1&quot;]/div[@class=&quot;card-content not-columns&quot;]/div[@class=&quot;array box exALLocation not-column&quot;]/div[@class=&quot;scrollable pl-3 pb-4&quot;]/div[@class=&quot;card item item-2 collapsed&quot;]/div[@class=&quot;card-header&quot;]/div[@class=&quot;card-header-title&quot;]/div[@class=&quot;rep-info-title&quot;]</value>
+      <webElementGuid>dac32fc0-0718-45a4-8287-d3c5e51bae4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='schema-form']/form/div[4]/div/div/div/div/div[3]/div/div[2]/div[6]/div[3]/div[2]/div/div/div</value>
+      <webElementGuid>823ed1d1-3742-45fa-a3c3-22ace421432e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#2'])[1]/following::div[1]</value>
+      <webElementGuid>0ec7e4e4-50e0-46c3-aa5a-b7149b95f991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FL'])[1]/following::div[4]</value>
+      <webElementGuid>501883a5-6ea0-416b-813e-2a44909b2c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/preceding::div[1]</value>
+      <webElementGuid>a4842ce7-b327-470d-b69f-55aeccbf37dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy AL Policy'])[1]/preceding::div[2]</value>
+      <webElementGuid>001ac2d5-c73e-4970-8753-d5da712f71b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[6]/div[3]/div[2]/div/div/div</value>
+      <webElementGuid>550bfaac-dfa5-4c0e-9af4-13e8221ff1ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

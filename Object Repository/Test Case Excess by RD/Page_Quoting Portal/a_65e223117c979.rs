@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_65e223117c979</name>
+   <tag></tag>
+   <elementGuidId>1c702bac-3c00-4c8f-8cc6-9162619e7867</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.id > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'65e223117c979')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2d6ffc0c-6292-42d4-a710-6c532cbc9bd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 65e223117c979 </value>
+      <webElementGuid>2e584752-eecd-462f-9ea5-27aef46efd4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[6]/div[@class=&quot;container&quot;]/main[1]/div[1]/div[@class=&quot;dashboard-grid-container-base dashboard-grid-container-filter-on&quot;]/div[@class=&quot;table-item&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-content is-paddingless table-overflow&quot;]/div[@class=&quot;b-table is-size-7 pagination&quot;]/div[@class=&quot;table-wrapper has-mobile-cards&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[1]/td[@class=&quot;id&quot;]/a[1]</value>
+      <webElementGuid>5d6aacca-c913-4861-9301-90ff2b7be60b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'65e223117c979')]</value>
+      <webElementGuid>270b13b6-c003-43c4-9a99-520814d66eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::a[1]</value>
+      <webElementGuid>345b8244-3fd0-4d1c-b053-b5aea1fd110f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Type'])[3]/following::a[1]</value>
+      <webElementGuid>c57471f9-8b77-497c-a69d-4115820f2412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excess Smoke Test by RD'])[1]/preceding::a[2]</value>
+      <webElementGuid>82a25573-eda9-43b6-baf8-6f783b5f8d1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rodrigo.denis@combinedratio.com'])[2]/preceding::a[4]</value>
+      <webElementGuid>9640a110-c8ea-4a8f-8dc6-d602dc286f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='65e223117c979']/parent::*</value>
+      <webElementGuid>11cad02c-c625-400d-8d3b-dbf315976a58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>6aae0e99-099c-403a-9038-20f6e081f435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' 65e223117c979 ' or . = ' 65e223117c979 ')]</value>
+      <webElementGuid>a737bc8b-36a6-47f3-9b87-87d786ed6825</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

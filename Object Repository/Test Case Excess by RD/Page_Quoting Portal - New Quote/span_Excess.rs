@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Excess</name>
+   <tag></tag>
+   <elementGuidId>500d669f-f516-430f-a204-15a2fe7a2a3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.field-container.LOBisExcess.column.is-2 > div.field.schema-field > div.b-tooltip.is-primary.is-bottom.is-medium.is-multiline.maybe-tooltip > div.tooltip-trigger > label.checkbox.is-small > span.control-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='schema-form']/form/div[2]/div/div/div/div[5]/div/div[5]/div/div/div[2]/label/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>44f58e99-bc41-4ef5-ab4b-0aad9ef3a7ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label</value>
+      <webElementGuid>e57eb924-daaf-448d-9a26-cea6723c1f6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Excess </value>
+      <webElementGuid>ddde10a0-ebdf-4707-adcd-02266b49ee9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;schema-form&quot;)/form[1]/div[@class=&quot;card is-paddingless group accountInfo vertical&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;not-columns&quot;]/div[@class=&quot;group accountInputsLine2 horizontal&quot;]/div[@class=&quot;columns&quot;]/div[@class=&quot;field-container LOBisExcess column is-2&quot;]/div[@class=&quot;field schema-field&quot;]/div[@class=&quot;b-tooltip is-primary is-bottom is-medium is-multiline maybe-tooltip&quot;]/div[@class=&quot;tooltip-trigger&quot;]/label[@class=&quot;checkbox is-small&quot;]/span[@class=&quot;control-label&quot;]</value>
+      <webElementGuid>eea9a9ad-1f23-4750-a76a-ab94bc0d8db8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='schema-form']/form/div[2]/div/div/div/div[5]/div/div[5]/div/div/div[2]/label/span[2]</value>
+      <webElementGuid>a9bf14b3-6ac9-4724-a3c7-0dd762062fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Garage/Dealer'])[1]/following::span[2]</value>
+      <webElementGuid>2bcb1480-1ea3-4972-b9d4-102a6bd12cd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOB for Policy #'])[1]/preceding::span[1]</value>
+      <webElementGuid>469b735e-fc7b-405a-8253-39f58cc45b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Excess']/parent::*</value>
+      <webElementGuid>576a31d6-bb3b-4b09-a92b-c5f04c998ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/label/span[2]</value>
+      <webElementGuid>0868fee9-0d36-4d1c-8390-d578b4630a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Excess ' or . = ' Excess ')]</value>
+      <webElementGuid>131d8704-5610-4238-81b3-e296c44e1961</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

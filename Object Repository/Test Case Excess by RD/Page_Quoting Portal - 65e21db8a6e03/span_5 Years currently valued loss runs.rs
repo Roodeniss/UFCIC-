@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_5 Years currently valued loss runs</name>
+   <tag></tag>
+   <elementGuidId>58cf11c0-da92-407a-9a89-1e0ad8da694a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='schema-form']/form/div[2]/div/div/div/div[5]/div/div/div/div[3]/div/div/div[2]/label/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>edb27694-4f41-403e-9d40-d13ce6c1142f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label</value>
+      <webElementGuid>89a14727-a534-4717-852c-c9c68cbd6aee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 5 Years’ currently valued loss runs </value>
+      <webElementGuid>1642029b-5b5f-4c62-ab42-b9730e14422a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;schema-form&quot;)/form[1]/div[@class=&quot;card is-paddingless group excessDetails vertical&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;not-columns&quot;]/div[@class=&quot;card is-paddingless group exSubjectivesCard vertical&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;not-columns&quot;]/div[@class=&quot;field-container exSubj3  not-column&quot;]/div[@class=&quot;field schema-field&quot;]/div[@class=&quot;b-tooltip is-primary is-bottom is-medium is-multiline maybe-tooltip&quot;]/div[@class=&quot;tooltip-trigger&quot;]/label[@class=&quot;checkbox is-small&quot;]/span[@class=&quot;control-label&quot;]</value>
+      <webElementGuid>b49d8f62-bab3-4b0c-9498-6ceb71618695</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='schema-form']/form/div[2]/div/div/div/div[5]/div/div/div/div[3]/div/div/div[2]/label/span[2]</value>
+      <webElementGuid>a6edf658-acc2-4c97-baea-01d7891bc148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed, signed, and dated Supplemental application'])[1]/following::span[2]</value>
+      <webElementGuid>b8f36a9f-b37f-4ef4-a9b4-81598c0e834b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Underlying Binders'])[1]/preceding::span[2]</value>
+      <webElementGuid>d9d101ba-70e6-4de3-a1c0-d5a54282f2fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='5 Years’ currently valued loss runs']/parent::*</value>
+      <webElementGuid>77595de4-fb36-4934-ad92-3e662d1c566d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div[3]/div/div/div[2]/label/span[2]</value>
+      <webElementGuid>b0982887-f561-4f52-9da9-7bae7200c68c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 5 Years’ currently valued loss runs ' or . = ' 5 Years’ currently valued loss runs ')]</value>
+      <webElementGuid>1b846052-7e9c-416e-a734-c22c3607e044</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Start New Quote</name>
+   <tag></tag>
+   <elementGuidId>582d2a1c-0283-4c13-ac47-63bc7b142b4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.is-small.capitalize.button.is-info.start-new-admin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Start New Quote')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0014b39c-b654-4ec7-8619-3b68ebc82d0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/quote/new%20business/property/account</value>
+      <webElementGuid>1922dd34-70df-404c-8ab1-d78c3c58aa2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>is-small capitalize button is-info start-new-admin</value>
+      <webElementGuid>b9e56e74-6730-40b6-a2e0-4e32a484b497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-qa</name>
+      <type>Main</type>
+      <value>new-quote-property</value>
+      <webElementGuid>050829f8-bb7c-436c-a601-943f526b627e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>is-small</value>
+      <webElementGuid>7409be99-0115-4ee8-a915-77ab4b1ec283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Start New Quote </value>
+      <webElementGuid>f66ba9b8-d7c0-44b9-84c9-fa0f85805b20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[6]/div[@class=&quot;container&quot;]/main[1]/div[1]/div[@class=&quot;dashboard-grid-container-base dashboard-grid-container-filter-on&quot;]/div[@class=&quot;level start-item mb-0&quot;]/div[@class=&quot;level-item is-flex is-flex-direction-column&quot;]/div[@class=&quot;is-full-width&quot;]/div[@class=&quot;px-0&quot;]/div[@class=&quot;py-0 has-text-centered&quot;]/a[@class=&quot;is-small capitalize button is-info start-new-admin&quot;]</value>
+      <webElementGuid>420cee50-18be-4a51-9663-63fd41453286</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Start New Quote')]</value>
+      <webElementGuid>3213c544-7eb9-4da0-bb72-cccf6e5a2b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning:'])[1]/following::a[2]</value>
+      <webElementGuid>f7c5cd13-4f53-49dc-9427-7a7a029fa839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rodrigo.denis@combinedratio.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>37476eb5-72f0-4f9c-bc92-388e042b8bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::a[1]</value>
+      <webElementGuid>44e66494-37bd-4c7c-aa75-b6ca9765f784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start New Quote']/parent::*</value>
+      <webElementGuid>9d5c796b-22f6-46ef-a1fd-42fed842901b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/quote/new%20business/property/account')]</value>
+      <webElementGuid>2f925806-f573-4dcd-a8d8-eddf2b899a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a</value>
+      <webElementGuid>38eb9335-4afa-4afb-bdff-c731829c05c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/quote/new%20business/property/account' and (text() = ' Start New Quote ' or . = ' Start New Quote ')]</value>
+      <webElementGuid>15e7bdda-f867-4139-9f8d-be26a3bc5d2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

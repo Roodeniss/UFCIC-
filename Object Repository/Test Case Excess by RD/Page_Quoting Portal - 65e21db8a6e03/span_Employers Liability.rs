@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Employers Liability</name>
+   <tag></tag>
+   <elementGuidId>7d81989f-a8c4-4508-86f7-0151e2f389c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='schema-form']/form/div[2]/div/div/div/div[4]/div/div/div/div/div/div[2]/div/div/div[2]/label/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6fb38482-d48f-4ba7-b774-53fbcfe214d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label</value>
+      <webElementGuid>d54a876d-1d03-4b24-b025-df943e5db1be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Employers Liability  </value>
+      <webElementGuid>7ab457e5-e2d9-4a02-a6b0-8192a5a26b76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;schema-form&quot;)/form[1]/div[@class=&quot;card is-paddingless group excessDetails vertical&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;not-columns&quot;]/div[@class=&quot;card is-paddingless group exULSelections vertical&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;not-columns&quot;]/div[@class=&quot;group line1 horizontal&quot;]/div[@class=&quot;columns&quot;]/div[@class=&quot;field-container exULELYN column&quot;]/div[@class=&quot;field schema-field&quot;]/div[@class=&quot;b-tooltip is-primary is-bottom is-medium is-multiline maybe-tooltip&quot;]/div[@class=&quot;tooltip-trigger&quot;]/label[@class=&quot;checkbox is-small&quot;]/span[@class=&quot;control-label&quot;]</value>
+      <webElementGuid>0442b0d1-c52f-48d3-81af-3111367fc668</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='schema-form']/form/div[2]/div/div/div/div[4]/div/div/div/div/div/div[2]/div/div/div[2]/label/span[2]</value>
+      <webElementGuid>c82fe262-f5bf-4280-90fe-0b7daf0053b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Liability'])[1]/following::span[2]</value>
+      <webElementGuid>a2eec31a-9903-40c9-820c-0c672d3bd0e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excess Liability'])[1]/preceding::span[2]</value>
+      <webElementGuid>a1f1d518-9128-4611-9beb-be564e033d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Employers Liability']/parent::*</value>
+      <webElementGuid>3a356242-502c-43e8-867d-311f7cd833c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/label/span[2]</value>
+      <webElementGuid>01b305f8-e287-44df-82ea-61e6604f4b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Employers Liability  ' or . = ' Employers Liability  ')]</value>
+      <webElementGuid>d7429bff-a4f0-4d0d-8ff6-e8b95428befe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

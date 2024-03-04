@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_30</name>
+   <tag></tag>
+   <elementGuidId>f3474c20-cc8a-4a75-bbd4-50c877ebc159</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='schema-form']/form/div/div/div/div/div[20]/div/div[5]/div/div/div[2]/div/div/div[3]/div/div/div/div/section/div/div[5]/a[7]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b7adc9ae-7c0d-4f6f-b708-3920027ca0d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>df8de43f-2639-4569-921f-43ea63cb93cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;schema-form&quot;)/form[1]/div[@class=&quot;card is-paddingless group excessCasualtyRiskSummary  vertical&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;not-columns&quot;]/div[@class=&quot;group underwriterLine horizontal&quot;]/div[@class=&quot;columns&quot;]/div[@class=&quot;field-container dateSummary column is-2&quot;]/div[@class=&quot;field schema-field&quot;]/div[@class=&quot;b-tooltip is-primary is-bottom is-medium is-multiline maybe-tooltip&quot;]/div[@class=&quot;tooltip-trigger&quot;]/div[@class=&quot;datepicker control is-small&quot;]/div[@class=&quot;dropdown dropdown-menu-animation is-bottom-right is-active is-mobile-modal&quot;]/div[@class=&quot;dropdown-menu&quot;]/div[@class=&quot;dropdown-content&quot;]/div[@class=&quot;dropdown-item&quot;]/div[1]/div[@class=&quot;datepicker-content&quot;]/section[@class=&quot;datepicker-table&quot;]/div[@class=&quot;datepicker-body&quot;]/div[@class=&quot;datepicker-row&quot;]/a[@class=&quot;datepicker-cell is-selectable&quot;]/span[1]</value>
+      <webElementGuid>5f446ce7-0211-4641-aa3c-b15dfd7f2fda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='schema-form']/form/div/div/div/div/div[20]/div/div[5]/div/div/div[2]/div/div/div[3]/div/div/div/div/section/div/div[5]/a[7]/span</value>
+      <webElementGuid>65728393-0b8f-4dd0-b982-b0579c4bc99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[6]/following::span[35]</value>
+      <webElementGuid>6f180992-d6d3-45a9-866f-9096ad116a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[3]/following::span[36]</value>
+      <webElementGuid>6b4111fc-e276-46e3-a1bf-5477dc17544c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Would you like to Bind this policy?'])[1]/preceding::span[9]</value>
+      <webElementGuid>24d02667-3648-44e7-a31f-18da3899a686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a[7]/span</value>
+      <webElementGuid>796f31d9-562a-4f4a-9a87-7d2e85075ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '30' or . = '30')]</value>
+      <webElementGuid>c8438fce-04ec-4f93-a78b-1eb67e0f8aa9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

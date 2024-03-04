@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Completed, signed, and dated Supplemen_2bcca2</name>
+   <tag></tag>
+   <elementGuidId>0066f798-a81b-4be9-814d-a0e695ea3a54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='schema-form']/form/div[2]/div/div/div/div[5]/div/div/div/div[2]/div/div/div[2]/label/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4e815cd7-675b-44e3-b9f7-3b3047d3879f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label</value>
+      <webElementGuid>a7d2223b-2793-461c-add1-1d8d5b5aebed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Completed, signed, and dated Supplemental application </value>
+      <webElementGuid>c13cb79c-5db5-497b-8959-62a3d6630f59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;schema-form&quot;)/form[1]/div[@class=&quot;card is-paddingless group excessDetails vertical&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;not-columns&quot;]/div[@class=&quot;card is-paddingless group exSubjectivesCard vertical&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;not-columns&quot;]/div[@class=&quot;field-container exSubj2  not-column&quot;]/div[@class=&quot;field schema-field&quot;]/div[@class=&quot;b-tooltip is-primary is-bottom is-medium is-multiline maybe-tooltip&quot;]/div[@class=&quot;tooltip-trigger&quot;]/label[@class=&quot;checkbox is-small&quot;]/span[@class=&quot;control-label&quot;]</value>
+      <webElementGuid>f6d8de20-ddca-486c-a116-a219f1cd5096</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='schema-form']/form/div[2]/div/div/div/div[5]/div/div/div/div[2]/div/div/div[2]/label/span[2]</value>
+      <webElementGuid>b8664fde-bd8b-4d40-b95a-09811d23502c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed, signed, and dated ACORD application'])[1]/following::span[2]</value>
+      <webElementGuid>ffe73ef1-ca46-4394-abf3-bccb5f078aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Completed, signed, and dated Supplemental application']/parent::*</value>
+      <webElementGuid>dfaac43e-60f1-437b-81f1-166c83186f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div[2]/div/div/div[2]/label/span[2]</value>
+      <webElementGuid>8fa0cb7b-5220-4204-96f6-8551acdb3f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Completed, signed, and dated Supplemental application ' or . = ' Completed, signed, and dated Supplemental application ')]</value>
+      <webElementGuid>75525bbc-2f17-488e-9ddd-7acbb70a5a93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

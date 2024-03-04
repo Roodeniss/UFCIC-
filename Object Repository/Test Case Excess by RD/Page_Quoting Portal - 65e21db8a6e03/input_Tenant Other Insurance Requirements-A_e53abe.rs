@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Tenant Other Insurance Requirements-A_e53abe</name>
+   <tag></tag>
+   <elementGuidId>72cda469-77dd-44fc-9db4-b13925b7bde4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;UGLX 5105&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='UGLX 5105']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7e04df58-f7e2-4b99-9bfb-332e6ce44a84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>0173b72c-1a00-4215-8502-f5f4feecfcd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>6c0df645-569d-40de-84ff-630a9e636848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>UGLX 5105</value>
+      <webElementGuid>141a0dcf-5abd-4272-a31b-887d4fdd30e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>true-value</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>20fc6c60-52fd-486c-97e8-b3d8381b5e12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>UGLX 5105</value>
+      <webElementGuid>fe7727c4-992c-4e35-bc39-aa97a30675db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;forms-table&quot;)/tbody[2]/tr[13]/td[1]/label[@class=&quot;checkbox small&quot;]/input[1]</value>
+      <webElementGuid>e895aec1-9673-47a9-892a-45fab2fb6785</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='UGLX 5105']</value>
+      <webElementGuid>99326e8b-c96e-4225-aadf-29bd42a3d74e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='forms-table']/tbody[2]/tr[13]/td/label/input</value>
+      <webElementGuid>8f56ac61-93c4-437c-bb3c-4b0186e22fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[13]/td/label/input</value>
+      <webElementGuid>06a940b4-28cb-475d-ba71-97f41a866865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @name = 'UGLX 5105']</value>
+      <webElementGuid>1a637069-ca00-45f8-b5ef-469146c28484</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

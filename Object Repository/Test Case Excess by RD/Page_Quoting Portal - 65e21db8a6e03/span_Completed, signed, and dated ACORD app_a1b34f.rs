@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Completed, signed, and dated ACORD app_a1b34f</name>
+   <tag></tag>
+   <elementGuidId>4f0ae0f9-ac09-417a-8e31-023f2f5f5346</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='schema-form']/form/div[2]/div/div/div/div[5]/div/div/div/div/div/div/div[2]/label/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af61ebbf-55a9-429a-b8dc-6fda6044ab27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label</value>
+      <webElementGuid>9e0babc8-a432-45eb-b221-07326aaa2868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Completed, signed, and dated ACORD application </value>
+      <webElementGuid>a07d9e8d-fddc-4f85-89d2-25ce3eac5922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;schema-form&quot;)/form[1]/div[@class=&quot;card is-paddingless group excessDetails vertical&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;not-columns&quot;]/div[@class=&quot;card is-paddingless group exSubjectivesCard vertical&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;not-columns&quot;]/div[@class=&quot;field-container exSubj1  not-column&quot;]/div[@class=&quot;field schema-field&quot;]/div[@class=&quot;b-tooltip is-primary is-bottom is-medium is-multiline maybe-tooltip&quot;]/div[@class=&quot;tooltip-trigger&quot;]/label[@class=&quot;checkbox is-small&quot;]/span[@class=&quot;control-label&quot;]</value>
+      <webElementGuid>24d35bc6-e80b-4af8-af35-142baf75fa35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='schema-form']/form/div[2]/div/div/div/div[5]/div/div/div/div/div/div/div[2]/label/span[2]</value>
+      <webElementGuid>1bec2828-d73d-4a2f-9883-5b2d48a3e29c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Garage/Auto Dealers Liability'])[1]/following::span[2]</value>
+      <webElementGuid>11ddca80-fcd0-48f9-8e52-456bc58639c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed, signed, and dated Supplemental application'])[1]/preceding::span[2]</value>
+      <webElementGuid>5b290bb2-cce5-4669-a5ad-d10980909543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Completed, signed, and dated ACORD application']/parent::*</value>
+      <webElementGuid>95c1a46e-e8ed-4442-820c-00e7c46bb297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div[2]/label/span[2]</value>
+      <webElementGuid>7ff75c05-108e-41c7-820d-eb10faf2956f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Completed, signed, and dated ACORD application ' or . = ' Completed, signed, and dated ACORD application ')]</value>
+      <webElementGuid>ee17b431-de6a-4d7d-96f5-c6836e7dfcd4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

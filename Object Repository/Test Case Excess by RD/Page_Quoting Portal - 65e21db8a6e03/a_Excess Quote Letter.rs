@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Excess Quote Letter</name>
+   <tag></tag>
+   <elementGuidId>283e581b-f238-4934-a44d-07694172795f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='schema-form']/section/nav/div[2]/div/div/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9a218936-0733-41e8-9bec-0e64e1ff2cb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ExcessQuoteLetter button </value>
+      <webElementGuid>f2cbcebf-b06c-4475-bdd8-2b14b037a13c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-headless-id</name>
+      <type>Main</type>
+      <value>nav-button-ExcessQuoteLetter</value>
+      <webElementGuid>63302611-cec0-446b-821e-034183fda114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Excess Quote Letter </value>
+      <webElementGuid>6d856179-4186-49c3-b4da-c2411c021462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;schema-form&quot;)/section[@class=&quot;section&quot;]/nav[@class=&quot;navbar is-fixed-bottom box px-2 py-2&quot;]/div[@class=&quot;navbar-end&quot;]/div[@class=&quot;navbar-item&quot;]/div[@class=&quot;buttons is-right&quot;]/a[@class=&quot;ExcessQuoteLetter button&quot;]</value>
+      <webElementGuid>08a95878-d0f1-4dbf-a396-8311b39f737b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='schema-form']/section/nav/div[2]/div/div/a[3]</value>
+      <webElementGuid>86ff14d4-b51a-43ea-b29f-468c1d2dda6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Excess Quote Letter')]</value>
+      <webElementGuid>999c1d36-5391-48d9-aa7d-525b1aca7431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::a[1]</value>
+      <webElementGuid>dc356226-5463-4940-918c-75ced5cc0b15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::a[2]</value>
+      <webElementGuid>a2694d35-b353-4c04-b372-556fa0e0e022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Excess Quote Letter']/parent::*</value>
+      <webElementGuid>cab7089d-21a9-41ac-9ad7-d03a9239bff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a[3]</value>
+      <webElementGuid>3c7a6521-f155-421d-b32b-6607b73c283c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' Excess Quote Letter ' or . = ' Excess Quote Letter ')]</value>
+      <webElementGuid>3931a9d9-60c9-404f-8af3-6229aa3f1a4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

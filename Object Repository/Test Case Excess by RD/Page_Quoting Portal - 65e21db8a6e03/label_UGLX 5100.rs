@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_UGLX 5100</name>
+   <tag></tag>
+   <elementGuidId>2f4510c3-b527-46f9-b22d-26860107ca07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='forms-table']/tbody[2]/tr[12]/td/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>cf04a700-d775-4329-b59a-eebcc56c5b71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox small</value>
+      <webElementGuid>7bec307e-c1f9-4bbe-a781-518bb2126593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> UGLX 5100  </value>
+      <webElementGuid>6e13f873-7261-41e1-9c41-bf05c4d16954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;forms-table&quot;)/tbody[2]/tr[12]/td[1]/label[@class=&quot;checkbox small&quot;]</value>
+      <webElementGuid>b0327188-c09e-4a07-9bca-76383442b9ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='forms-table']/tbody[2]/tr[12]/td/label</value>
+      <webElementGuid>59294614-cc3b-4759-8751-b3663c1d99e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exclusion - Subsidence, Movement Or Hazardous Conditions of Land'])[1]/following::label[1]</value>
+      <webElementGuid>2af814c3-86d3-4516-9f0c-96f8747921e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UGLX 5098'])[1]/following::label[1]</value>
+      <webElementGuid>76b633c2-1daa-4b78-a362-693aa9ee5f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenant Other Insurance Requirements-Amendatory Endorsement'])[1]/preceding::label[1]</value>
+      <webElementGuid>9bd685cb-aa19-4400-91ce-a2b7f6e8e6a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[12]/td/label</value>
+      <webElementGuid>c51a77cc-cee9-4f37-a959-707329148648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' UGLX 5100  ' or . = ' UGLX 5100  ')]</value>
+      <webElementGuid>46c05abe-bcdf-4e78-92aa-660eea2ff46d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

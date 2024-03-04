@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Layer 2-2M Excess_check</name>
+   <tag></tag>
+   <elementGuidId>e9657558-ecba-4aeb-bd43-9afa58bb5f21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#field-exLayer2MExcessSelection-1260 > span.check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='field-exLayer2MExcessSelection-1260']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3e2d28a6-cc45-454d-86de-f0cf71a41028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>switch-check</value>
+      <webElementGuid>8ff30215-1b32-468a-b4a3-8285b92cc281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>5c0836ee-dc17-4779-88f7-ad1adac0793d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;field-exLayer2MExcessSelection-1260&quot;)/span[@class=&quot;check&quot;]</value>
+      <webElementGuid>526b6638-68a1-41ff-8619-a1cc825ff34c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='field-exLayer2MExcessSelection-1260']/span</value>
+      <webElementGuid>7fa2caa4-1642-493a-8003-f317eae20e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/div/div[2]/label/span</value>
+      <webElementGuid>24dfa6d4-6f10-4a56-97e7-53d9d09015f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

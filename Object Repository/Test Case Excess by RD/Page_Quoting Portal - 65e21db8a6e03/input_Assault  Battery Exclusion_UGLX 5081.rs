@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Assault  Battery Exclusion_UGLX 5081</name>
+   <tag></tag>
+   <elementGuidId>d6a86eee-98cd-4cea-a4f6-5f8db08643a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;UGLX 5081&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='UGLX 5081']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f1e593d3-bb6c-409c-8dd1-d1d092fea451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>e31407ec-4439-4cd2-a2e6-2d29d9652fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>d4ccfc4c-2021-4c04-98de-82051759a39e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>UGLX 5081</value>
+      <webElementGuid>1ecd13fd-9312-4254-ba2b-8dd687d213d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>true-value</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2a26b053-1bd6-4b02-9e26-cc0fa324ebfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>UGLX 5081</value>
+      <webElementGuid>b037cf2f-e8fe-44e2-b07e-85ca220282ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;forms-table&quot;)/tbody[2]/tr[8]/td[1]/label[@class=&quot;checkbox small&quot;]/input[1]</value>
+      <webElementGuid>e891ecae-522a-45a4-b5c9-b4693e43817b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='UGLX 5081']</value>
+      <webElementGuid>1bdebf94-3748-49e8-bb19-89ded93aed66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='forms-table']/tbody[2]/tr[8]/td/label/input</value>
+      <webElementGuid>9acca9ae-f252-45ec-90ae-3204f1330269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td/label/input</value>
+      <webElementGuid>e81a2548-c880-4d57-8668-07c9c2b42d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @name = 'UGLX 5081']</value>
+      <webElementGuid>19c134bd-1ccd-4261-b6f4-f16fa92f50e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
